@@ -1,2 +1,3 @@
-# .github
-organization repo
+# NodeParty
+
+We love Node connect
